@@ -17,7 +17,8 @@ INSTALLED_APPS = [
 
     'accounts',  # custom user app NA KRAJU core appova
     'companies',
-    'tenant'
+    'tenant',
+    'expenses'
 ]
 
 MIDDLEWARE = [
